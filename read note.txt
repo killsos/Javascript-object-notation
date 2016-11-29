@@ -24,3 +24,7 @@
    Access-Control-Allow-Credentials:
    Access-Control-Allow-Methods:
    Access-Control-Allow-Origin:
+
+13 json-padding  jsonp
+
+14 CouchDB 是json文档存储数据的NoSQL数据库
