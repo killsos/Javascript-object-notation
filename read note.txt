@@ -1,0 +1,26 @@
+1   json是一种数据交换格式 并不是所有系统支持json
+2   xml csv json
+3   json object notation javascript对象表示法
+4   必须双引号
+5   a-z0-9以外还允许特殊字符 忽略可移植
+6   json MIME类型 application/json  扩展名.json
+7   字面量指字面意思与想要表达的意思是完全一致的值
+8   转义字符
+9   json schema
+10  跨站请求伪造CSRF cross-site request forgery
+11  xmlhttprequest
+      new open send
+      onreadystatechange
+      readstate
+        0 未发送
+        1 已发送 open执行send未执行
+        2 收到头部 send已执行 且头部和状态码都可以获取
+        3 头部已收到 body正在解析中
+        4 完成
+      status
+      response Text
+
+12 跨域
+   Access-Control-Allow-Credentials:
+   Access-Control-Allow-Methods:
+   Access-Control-Allow-Origin:
